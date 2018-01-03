@@ -150,6 +150,7 @@ p.paragraph {
 }
 .ctas {
   margin: 20px 0 0 0;
+  display: block; /* incase user agent stylesheets are weird for forms */
 }
 .centerdevices,
 .sidedevices {
